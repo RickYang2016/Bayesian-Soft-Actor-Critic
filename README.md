@@ -6,9 +6,9 @@
 
 <!-- ![image](https://github.com/RickYang2016/Bayesian-Soft-Actor-Critic/blob/main/figures/hopper-v2_3bsac.png)      ![image](https://github.com/RickYang2016/Bayesian-Soft-Actor-Critic/blob/main/figures/hopper-v2_3bsac.gif) -->
 
-<img src="https://github.com/RickYang2016/Bayesian-Soft-Actor-Critic/blob/main/figures/hopper-v2_3bsac.png" height="300" alt="Hopper-V2 3SABC">   <img src="https://github.com/RickYang2016/Bayesian-Soft-Actor-Critic/blob/main/figures/hopper-v2_3bsac.gif" height="300" alt="Hopper-V2 3SABC Video"/>
+<img src="https://github.com/RickYang2016/Bayesian-Soft-Actor-Critic/blob/main/figures/hopper-v2_3bsac.png" height="300" alt="Hopper-V2 3SABC">   <img src="https://github.com/RickYang2016/Bayesian-Soft-Actor-Critic/blob/main/figures/hopper-v2_3bsac.gif" height="300" alt="Hopper-V2 3SABC Video">   <img src="https://github.com/RickYang2016/Bayesian-Soft-Actor-Critic/blob/main/figures/hopper-v2.png" height="300" alt="Hopper-V2 3SABC Video"/>
 
-![image](https://github.com/RickYang2016/Bayesian-Soft-Actor-Critic/blob/main/figures/hopper-v2.png)
+<!-- ![image](https://github.com/RickYang2016/Bayesian-Soft-Actor-Critic/blob/main/figures/hopper-v2.png) -->
 
 ![image](https://github.com/RickYang2016/Bayesian-Soft-Actor-Critic/blob/main/figures/walker2d-v2_5bsac.gif)
 
