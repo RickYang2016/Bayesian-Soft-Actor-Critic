@@ -9,7 +9,7 @@
 </div>
   
 <div align = center>
-<img src="https://github.com/RickYang2016/Bayesian-Soft-Actor-Critic/blob/main/figures/walker2d_v2_5bsac.png" height="214" alt="Hopper-V2 3SABC"><img src="https://github.com/RickYang2016/Bayesian-Soft-Actor-Critic/blob/main/figures/walker2d-v2_5bsac.gif" height="230" alt="Hopper-V2 3SABC Video"><img src="https://github.com/RickYang2016/Bayesian-Soft-Actor-Critic/blob/main/figures/walker2d-v2.png" height="250" alt="Hopper-V2 3SABC Video"/>
+<img src="https://github.com/RickYang2016/Bayesian-Soft-Actor-Critic/blob/main/figures/walker2d_v2_5bsac.png" height="215" alt="Hopper-V2 3SABC"><img src="https://github.com/RickYang2016/Bayesian-Soft-Actor-Critic/blob/main/figures/walker2d-v2_5bsac.gif" height="230" alt="Hopper-V2 3SABC Video"><img src="https://github.com/RickYang2016/Bayesian-Soft-Actor-Critic/blob/main/figures/walker2d-v2.png" height="250" alt="Hopper-V2 3SABC Video"/>
 </div>
 
 <div align = center>
