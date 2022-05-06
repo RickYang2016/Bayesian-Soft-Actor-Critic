@@ -15,3 +15,7 @@
 <div align = center>
 <img src="https://github.com/RickYang2016/Bayesian-Soft-Actor-Critic/blob/main/figures/humanoid-v2_5bsac.png" height="177" alt="Hopper-V2 3SABC"><img src="https://github.com/RickYang2016/Bayesian-Soft-Actor-Critic/blob/main/figures/humanoid-v2_3bsac.gif" height="230" alt="Hopper-V2 3SABC Video"><img src="https://github.com/RickYang2016/Bayesian-Soft-Actor-Critic/blob/main/figures/humanoid-v2-compare.png" height="250" alt="Hopper-V2 3SABC Video"/>
 </div>
+
+<div align = center>
+<img src="https://github.com/RickYang2016/Bayesian-Soft-Actor-Critic/blob/main/figures/humanoid-v2-3%269bsac.png" height="177" alt="Hopper-V2 3SABC"><img src="https://github.com/RickYang2016/Bayesian-Soft-Actor-Critic/blob/main/figures/bsac_compare.png" height="250" alt="Hopper-V2 3SABC Video"/>
+</div>
