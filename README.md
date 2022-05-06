@@ -6,7 +6,7 @@
 
 ![image](https://github.com/RickYang2016/Bayesian-Soft-Actor-Critic/blob/main/figures/hopper-v2_3bsac.png)      ![image](https://github.com/RickYang2016/Bayesian-Soft-Actor-Critic/blob/main/figures/hopper-v2_3bsac.gif)
 
-<img src="https://github.com/RickYang2016/Bayesian-Soft-Actor-Critic/blob/main/figures/hopper-v2_3bsac.png" width="200" height="200" alt="Hopper-V2 3SABC"/><br/>
+<img src="https://github.com/RickYang2016/Bayesian-Soft-Actor-Critic/blob/main/figures/hopper-v2_3bsac.png" width="300" height="300" alt="Hopper-V2 3SABC"/><br/>
 
 ![image](https://github.com/RickYang2016/Bayesian-Soft-Actor-Critic/blob/main/figures/hopper-v2.png)
 
