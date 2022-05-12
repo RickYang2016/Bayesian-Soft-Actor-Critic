@@ -16,11 +16,17 @@ This implementation requires Anaconda / OpenAI Gym / Mujoco / PyTorch / rl-plott
 
 ### Getting Started
 
-  1. Install reinforcement learning (RL) plotter -- [rl-plotter](https://github.com/gxywy/rl-plotter):
+  1. Install [OpenAI Gym](https://gym.openai.com/docs/):
+  ```
+  pip install gym
+  ```
+
+  2. Install reinforcement learning (RL) plotter -- [rl-plotter](https://github.com/gxywy/rl-plotter):
   ```
   pip install rl_plotter
   ```
-  2. Install Mujoco:
+  
+  3. Install Mujoco:
   
 
 
