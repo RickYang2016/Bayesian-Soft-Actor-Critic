@@ -31,3 +31,7 @@
 <div align = center>
 <img src="https://github.com/RickYang2016/Bayesian-Soft-Actor-Critic/blob/main/figures/humanoid-v2-3%269bsac.png" height="230" alt="Hopper-V2 3SABC"><img src="https://github.com/RickYang2016/Bayesian-Soft-Actor-Critic/blob/main/figures/bsac_compare.png" height="250" alt="Hopper-V2 3SABC Video"/>
 </div>
+
+## Conclusion
+
+From theoretical derivation, we formulate the training process of the BSAC and implement it in OpenAI's MuJoCo standard continuous control benchmark domains such as the Hopper, Walker, and the Humanoid. The results illustrated the effectiveness of the proposed architecture in enabling the application domains with high-dimensional action spaces and can achieve higher performance against the state-of-the-art RL methods. Furthermore, we believe that the potential generality and practicability of the BSAC evoke further theoretical and empirical investigations. Especially, implementing the BSAC on real robots is not only a challenging problem but will also help us develop robust computation models for multi-agent/robot systems, such as robot locomotion control, multi-robot planning and navigation, and robot-aided search and rescue missions.
