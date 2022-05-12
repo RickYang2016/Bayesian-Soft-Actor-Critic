@@ -12,6 +12,8 @@
 
 ## Experiments Setup
 
+This implementation requires Anaconda / OpenAI Gym / Mujoco / PyTorch / rl-plotter.
+
 ### Getting Started
 
   1. Install reinforcement learning (RL) plotter -- [rl-plotter](https://github.com/gxywy/rl-plotter):
