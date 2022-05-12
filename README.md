@@ -16,9 +16,11 @@
 
   1. Install reinforcement learning (RL) plotter -- [rl-plotter](https://github.com/gxywy/rl-plotter):
   ```
-  adf
-  sdf
+  pip install rl_plotter
   ```
+  2. Install Mujoco:
+  
+
 
 ### Training Agent
 
