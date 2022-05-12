@@ -13,11 +13,10 @@
 ## Experiments Setup
 
 ### Getting Started
-'''
-1. Install [rl-plotter](https://github.com/gxywy/rl-plotter):
+
+  1. Install [rl-plotter](https://github.com/gxywy/rl-plotter):
 
 
-'''
 
 ### Training Agent
 
