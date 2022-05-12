@@ -15,9 +15,10 @@
 ### Getting Started
 
   1. Install reinforcement learning (RL) plotter -- [rl-plotter](https://github.com/gxywy/rl-plotter):
+  ```
   adf
   sdf
-
+  ```
 
 ### Training Agent
 
