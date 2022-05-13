@@ -21,7 +21,10 @@ This implementation requires Anaconda / OpenAI Gym / Mujoco / PyTorch / rl-plott
   pip install gym
   ```
 
-  2. Install Mujoco:
+  2. Install [Mujoco 200](https://www.roboti.us/index.html):
+  ```
+  
+  ```
 
 
   3. Install reinforcement learning (RL) plotter -- [rl-plotter](https://github.com/gxywy/rl-plotter):
