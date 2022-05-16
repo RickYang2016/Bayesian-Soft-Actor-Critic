@@ -62,20 +62,29 @@ This implementation requires Anaconda / OpenAI Gym / Mujoco / PyTorch / rl-plott
   ```
 
 ### Examples for Training Agent
+
 1. Hopper-V2 with 3 factors BSAC:
-
-
+```
+cd ~/hopper-v2_3bsac
+pyhton3 main_bsac.py 
+```
 2. Walker2d-V2 with 5 factors BSAC:
+```
 
-
+```
 3. Humanoid-V2:
 - 3 factors BSAC:
+```
 
+```
 - 5 factors BSAC:
+```
 
+```
 - 9 factors BSAC:
+```
 
-
+```
 
 ## Evaluation
 
