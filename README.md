@@ -39,15 +39,17 @@ This implementation requires Anaconda / OpenAI Gym / Mujoco / PyTorch / rl-plott
   export LD_LIBRARY_PATH=~/.mujoco/mujoco200/bin${LD_LIBRARY_PATH:+:${LD_LIBRARY_PATH}} 
   export MUJOCO_KEY_PATH=~/.mujoco${MUJOCO_KEY_PATH}
   ```
-   2.4 Create conda environment and add path:
+   2.4 Download [mujoco-py](https://github.com/openai/mujoco-py) and create conda environment:
   ```
+  mkdir ~/mujoco_py
+  cd ~/mujoco-py
+  git clone https://github.com/openai/mujoco-py.git
   conda create -n myenv python=3.6
   source activate myenv
   sudo apt-get install build-essential
   ```
    2.5 Install dependence:
-   ```
-   cd ~/mujoco-py
+   ```  
    pip install -r requirements.txt
    pip install -r requirements.dev.txt
    python setup.py install
