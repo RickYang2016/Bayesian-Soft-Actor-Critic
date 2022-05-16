@@ -70,20 +70,24 @@ pyhton3 main_bsac.py
 ```
 2. Walker2d-V2 with 5 factors BSAC:
 ```
-
+cd ~/walker2d-v2_5bsac
+pyhton3 main_bsac.py
 ```
 3. Humanoid-V2:
 - 3 factors BSAC:
 ```
-
+cd ~/humanoid-v2_3bsac
+pyhton3 main_bsac.py
 ```
 - 5 factors BSAC:
 ```
-
+cd ~/humanoid-v2_5bsac
+pyhton3 main_bsac.py
 ```
 - 9 factors BSAC:
 ```
-
+cd ~/humanoid-v2_9bsac
+pyhton3 main_bsac.py
 ```
 
 ## Evaluation
