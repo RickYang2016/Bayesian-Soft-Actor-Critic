@@ -22,26 +22,36 @@ This implementation requires Anaconda / OpenAI Gym / Mujoco / PyTorch / rl-plott
   ```
 
   2. Install Mujoco 200:
-  a) [Download](https://www.roboti.us/index.html):  
+ 
+   2.1 [Download](https://www.roboti.us/index.html):  
   ```
   mkdir -p ~/.mujoco && cd ~/.mujoco
   wget -P . https://www.roboti.us/download/mjpro200_linux.zip
   unzip mjpro200_linux.zip
   ```
-  b) Copy your Mujoco license key (mjkey.txt) to the path:
+   2.2 Copy your Mujoco license key (mjkey.txt) to the path:
   ```
   cp mjkey.txt ~/.mujoco
   cp mjkey.txt ~/.mujoco/mujoco200_linux/bin
   ```
-  c) Add environment variables:
+   2.3 Add environment variables:
   ```
   export LD_LIBRARY_PATH=~/.mujoco/mujoco200/bin${LD_LIBRARY_PATH:+:${LD_LIBRARY_PATH}} 
   export MUJOCO_KEY_PATH=~/.mujoco${MUJOCO_KEY_PATH}
   ```
-  d) Create conda environment and add path:
+   2.4 Create conda environment and add path:
   ```
   conda create -n myenv python=3.6
+  source activate myenv
+  sudo apt-get install build-essential
   ```
+   2.5 Install dependence:
+   ```
+   cd ~/mujoco-py
+   pip install -r requirements.txt
+   pip install -r requirements.dev.txt
+   python setup.py install
+   ```
 
   3. Install reinforcement learning (RL) plotter -- [rl-plotter](https://github.com/gxywy/rl-plotter):
   ```
