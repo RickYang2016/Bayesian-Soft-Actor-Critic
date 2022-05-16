@@ -61,7 +61,20 @@ This implementation requires Anaconda / OpenAI Gym / Mujoco / PyTorch / rl-plott
   pip install rl_plotter
   ```
 
-### Training Agent
+### Examples for Training Agent
+1. Hopper-V2 with 3 factors BSAC:
+
+
+2. Walker2d-V2 with 5 factors BSAC:
+
+
+3. Humanoid-V2:
+- 3 factors BSAC:
+
+- 5 factors BSAC:
+
+- 9 factors BSAC:
+
 
 
 ## Evaluation
