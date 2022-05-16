@@ -29,17 +29,17 @@ This implementation requires Anaconda / OpenAI Gym / Mujoco / PyTorch / rl-plott
   wget -P . https://www.roboti.us/download/mjpro200_linux.zip
   unzip mjpro200_linux.zip
   ```
-   2.2 Copy your Mujoco license key (mjkey.txt) to the path:
+   - Copy your Mujoco license key (mjkey.txt) to the path:
   ```
   cp mjkey.txt ~/.mujoco
   cp mjkey.txt ~/.mujoco/mujoco200_linux/bin
   ```
-   2.3 Add environment variables:
+   - Add environment variables:
   ```
   export LD_LIBRARY_PATH=~/.mujoco/mujoco200/bin${LD_LIBRARY_PATH:+:${LD_LIBRARY_PATH}} 
   export MUJOCO_KEY_PATH=~/.mujoco${MUJOCO_KEY_PATH}
   ```
-   2.4 Download [mujoco-py](https://github.com/openai/mujoco-py) and create conda environment:
+   - Download [mujoco-py](https://github.com/openai/mujoco-py) and create conda environment:
   ```
   mkdir ~/mujoco_py
   cd ~/mujoco-py
@@ -48,7 +48,7 @@ This implementation requires Anaconda / OpenAI Gym / Mujoco / PyTorch / rl-plott
   source activate myenv
   sudo apt-get install build-essential
   ```
-   2.5 Install dependence:
+   - Install dependence:
    ```
    cd ~/mujoco-py
    pip install -r requirements.txt
@@ -60,10 +60,6 @@ This implementation requires Anaconda / OpenAI Gym / Mujoco / PyTorch / rl-plott
   ```
   pip install rl_plotter
   ```
-  
-  
-  
-
 
 ### Training Agent
 
