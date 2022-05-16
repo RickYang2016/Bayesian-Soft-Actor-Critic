@@ -49,7 +49,8 @@ This implementation requires Anaconda / OpenAI Gym / Mujoco / PyTorch / rl-plott
   sudo apt-get install build-essential
   ```
    2.5 Install dependence:
-   ```  
+   ```
+   cd ~/mujoco-py
    pip install -r requirements.txt
    pip install -r requirements.dev.txt
    python setup.py install
