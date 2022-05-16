@@ -23,7 +23,8 @@ This implementation requires Anaconda / OpenAI Gym / Mujoco / PyTorch / rl-plott
 
   2. Install Mujoco 200, [Download](https://www.roboti.us/index.html):
   ```
-  
+  mkdir -p ~/.mujoco_tmp && cd ~/.mujoco_tmp
+  wget -P . https://www.roboti.us/download/mjpro200_linux.zip
   ```
 
 
