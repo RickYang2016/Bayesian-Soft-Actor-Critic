@@ -21,7 +21,7 @@ This implementation requires Anaconda / OpenAI Gym / Mujoco / PyTorch / rl-plott
   pip install gym
   ```
 
-  2. Install [Mujoco 200](https://www.roboti.us/index.html):
+  2. Install Mujoco 200, [Download](https://www.roboti.us/index.html):
   ```
   
   ```
