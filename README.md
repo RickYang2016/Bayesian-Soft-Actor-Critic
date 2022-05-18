@@ -12,7 +12,7 @@
 
 ## Experiments Setup
 
-This implementation requires Anaconda / OpenAI Gym / Mujoco / PyTorch / rl-plotter.
+This implementation requires [Anaconda](https://www.anaconda.com/) / OpenAI Gym / Mujoco / [PyTorch](https://pytorch.org/) / rl-plotter.
 
 ### Getting Started
 
