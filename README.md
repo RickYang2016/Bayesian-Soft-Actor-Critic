@@ -90,6 +90,8 @@ cd ~/humanoid-v2_9bsac
 pyhton3 main_bsac.py
 ```
 
+> Note:
+
 ## Evaluation
 
 <div align = center>
