@@ -90,7 +90,7 @@ cd ~/humanoid-v2_9bsac
 pyhton3 main_bsac.py
 ```
 
-> Note:
+> Note: Before running the code, please set the specific directory in files `main_bsac.py` and `networks.py` for the data updating.
 
 ## Evaluation
 
